@@ -56,3 +56,23 @@ catalogo/                App principal: modelos, admin y migraciones
 catalogo/management/     Comando cargar_csv
 explorar_csv.py          Exploración del CSV con pandas
 ```
+
+## Documentación de Django
+
+Enlaces a la documentación oficial de Django 6.1, la versión que usa el proyecto:
+
+- [Documentación general](https://docs.djangoproject.com/en/6.1/)
+- [Tutorial oficial (parte 1)](https://docs.djangoproject.com/en/6.1/intro/tutorial01/)
+- [Modelos](https://docs.djangoproject.com/en/6.1/topics/db/models/)
+- [Tipos de campos](https://docs.djangoproject.com/en/6.1/ref/models/fields/)
+- [Relaciones muchos a muchos](https://docs.djangoproject.com/en/6.1/topics/db/examples/many_to_many/)
+- [Migraciones](https://docs.djangoproject.com/en/6.1/topics/migrations/)
+- [Consultas (QuerySets)](https://docs.djangoproject.com/en/6.1/topics/db/queries/)
+- [`bulk_create`](https://docs.djangoproject.com/en/6.1/ref/models/querysets/#bulk-create)
+- [Sitio de administración](https://docs.djangoproject.com/en/6.1/ref/contrib/admin/)
+- [Comandos de gestión personalizados](https://docs.djangoproject.com/en/6.1/howto/custom-management-commands/)
+- [Pruebas](https://docs.djangoproject.com/en/6.1/topics/testing/)
+
+## Licencia
+
+Este proyecto se distribuye bajo la [licencia MIT](LICENSE): puedes usar, copiar y modificar el código libremente, siempre que conserves el aviso de copyright.
